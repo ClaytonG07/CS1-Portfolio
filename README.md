@@ -1,5 +1,4 @@
 # CS1-Portfolio
-Projects created in Computer Science 1
 My name is Clayton Gass. This portfolio includes projects I completed in Computer Science 1 at Lake Land College.
 ## Skills Practiced:
 - Variables
